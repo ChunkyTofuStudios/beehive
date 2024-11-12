@@ -35,7 +35,7 @@ features:
 
   - title: Compete with Friends
     description: Challenge your friends and see who can build the biggest hive. Compare your scores across subjects.
-    fontawesome_icon_name: ranking-star
+    fontawesome_icon_name: award
 
   - title: Play and Learn
     description: Getting ready for a test? Checkout one of our bundles about Literature, World War II, SAT, and more.
