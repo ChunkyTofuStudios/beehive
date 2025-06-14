@@ -4,6 +4,8 @@ title: Terms & Conditions
 include_in_header: true
 ---
 
+### Terms & Conditions
+
 **Last updated**
 June 25 2024
 

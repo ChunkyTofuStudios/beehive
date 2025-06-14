@@ -4,10 +4,12 @@ title: Privacy Policy
 include_in_header: true
 ---
 
+### Privacy Policy
+
 **Last updated**
 June 25 2024
 
-**Privacy Policy**
+**Introduction**
 
 Chunky Tofu Studios built the Beehive app as a Freemium app. This SERVICE is provided by Chunky Tofu Studios at no cost and is intended for use as is.
 
