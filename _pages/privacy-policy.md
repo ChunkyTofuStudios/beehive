@@ -4,28 +4,81 @@ title: Privacy Policy
 include_in_header: true
 ---
 
-### Privacy Policy
+# Privacy Policy
 
 **Last updated**
 July 2 2025
 
 **Introduction**
 
-Chunky Tofu Studios built the Beehive app as a Freemium app. This SERVICE is provided by Chunky Tofu Studios at no cost and is intended for use as is.
+Welcome to Beehive, a mobile game developed and published by Chunky Tofu Studio LLC ("Chunky Tofu," "we," "us," or "our").
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+This Privacy Policy explains how we collect, use, share, and protect your information when you use Beehive ("the Game").
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+By using Beehive, you agree to the practices described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Beehive unless otherwise defined in this Privacy Policy.
+## 1. Information We Collect
 
-**Information Collection and Use**
+### Information You Provide
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Email, Uploaded Artwork, Usage Statistics, Crash Logs. The information that we request will be retained by us and used as described in this privacy policy.
+**Account Information:** When you create an account, we may collect your username, email address, and other information you choose to provide.
 
-The app does use third-party services that may collect information used to identify you.
+**Social Features:** If you add friends, send friend requests, or interact socially, we collect your friend list, usernames, and shared messages.
 
-Link to the privacy policy of third-party service providers used by the app
+**Customer Support:** We collect any information you provide when contacting us for help.
+
+### Automatically Collected Information
+
+**Device Information:** We collect device details such as device type, operating system, unique device identifiers (e.g., IDFA, GAID), and language settings.
+
+**Usage Data:** We collect data about how you play the Game, including gameplay activity, scores, purchases, and interactions with features.
+
+**Crash Logs and Diagnostics:** We collect data about errors or crashes to help improve the Game.
+
+### In-App Purchases and Virtual Items
+
+We keep records of virtual items you purchase (e.g., hints, swaps, other marketplace items). However, we do not store or process your payment card details—payments are handled by the app store (Apple App Store or Google Play Store).
+
+### Analytics and Advertising
+
+We use third-party analytics services to understand how players use Beehive.
+
+We may use advertising networks to show ads in the Game, which may involve collecting certain device or usage data to display relevant ads.
+
+## 2. How We Use Your Information
+
+We use your information to:
+
+- Operate, maintain, and improve the Game.
+- Provide customer support and respond to inquiries.
+- Manage in-game purchases and virtual items.
+- Enable social features, such as adding friends and sharing game results.
+- Analyze game usage and trends.
+- Personalize your gameplay experience.
+- Show ads, where applicable.
+- Comply with legal obligations.
+
+## 3. Sharing Your Information
+
+We may share your information:
+
+- **Service Providers:** With partners who help us operate the Game, such as analytics providers, cloud hosting services, and customer support tools.
+- **Legal Requirements:** If required by law, regulation, or legal process.
+- **Business Transfers:** In connection with a merger, acquisition, or sale of our assets.
+
+We do not sell your personal information.
+
+## 4. Social Features
+
+If you use social features:
+
+- Your username, profile details, and game activity may be visible to other players you connect with.
+- You can manage friends and social interactions in your account settings.
+- We encourage you not to share personal or sensitive information through public or social features.
+
+## 5. Third Party Services
+
+The app does use third-party services that may collect information used to identify you. Below are links to the privacy policy of third-party service providers used by the app:
 
 * [Google Play Services](https://www.google.com/policies/privacy/)
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
@@ -33,48 +86,50 @@ Link to the privacy policy of third-party service providers used by the app
 * [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 * [Facebook](https://www.facebook.com/about/privacy/update/printable)
 * [RevenueCat](https://www.revenuecat.com/privacy)
-*   [AppsFlyer](https://www.appsflyer.com/legal/services-privacy-policy/)
-*   [Microsoft Clarity](https://www.microsoft.com/en-us/privacy/privacystatement)
+* [AppsFlyer](https://www.appsflyer.com/legal/services-privacy-policy/)
+* [Microsoft Clarity](https://www.microsoft.com/en-us/privacy/privacystatement)
 
 We partner with Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising.
 
-**Log Data**
+## 6. Children’s Privacy
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+Beehive is not intended for children under 13. If we learn that we have collected personal information from a child under 13, we will delete it as required by law.
 
-**Cookies**
+## 7. Your Rights and Choices
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Depending on your location, you may have rights to:
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+- Access or correct your personal information.
+- Request deletion of your personal information.
+- Object to certain data processing.
+- Withdraw your consent where processing is based on consent.
 
-**Service Providers**
+You can exercise these rights by contacting us using the details below.
 
-We may employ third-party companies and individuals due to the following reasons:
+You may also limit tracking or personalized ads through your device settings.
 
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.
+## 8. Data Deletion Guide
 
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+If you wish to delete your personal data, please email us at [beehive@chunkytofustudios.com](mailto:beehive@chunkytofustudios.com).
 
-**Security**
+* If you contact us from the email address associated with your in-app account, simply state your request for data deletion.
+* If you contact us from a different email address, please include your user ID (found in the app’s settings) so we can verify your identity and process your request.
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+We will process your request within 48 hours when possible and confirm once your data has been deleted.
 
-**Links to Other Sites**
+You can learn more about the process at our [Data Safety page](https://chunkytofustudios.com/beehive/data-safety/).
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## 9. Security
 
-**Children’s Privacy**
+We take reasonable measures to protect your data. However, no system is completely secure, and we cannot guarantee absolute security.
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+## 10. Changes to This Policy
 
-**Changes to This Privacy Policy**
+We may update this Privacy Policy. If we make significant changes, we will notify you in the Game or through other means. The updated policy will be effective as of the “Last Updated” date.
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+## 11. Contact Us
 
-**Contact Us**
+If you have questions about this Privacy Policy or your personal data, please contact us at:
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <chunkytofustudios@gmail.com>.
+Chunky Tofu Studio LLC  
+https://chunkytofustudios.com/beehive/
