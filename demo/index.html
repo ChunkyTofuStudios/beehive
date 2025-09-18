@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Beehive Demo</title>
+    <style>
+        :root {
+            --phone-w: 390px;
+            /* iPhone 14 logical width */
+            --phone-h: 844px;
+            /* iPhone 14 logical height */
+        }
+
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+            display: grid;
+            place-items: center;
+            background: #f0f0f0;
+        }
+
+        .stage {
+            transform: translateY(-10vh);
+            /* shift ~10% upward */
+        }
+
+        .phone-frame {
+            width: var(--phone-w);
+            height: var(--phone-h);
+            border: 16px solid #333;
+            border-radius: 40px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            overflow: hidden;
+            background: #000;
+        }
+
+        .phone-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            display: block;
+        }
+
+        @media (max-height: 900px),
+        (max-width: 430px) {
+            .phone-frame {
+                transform: scale(calc(min(100vw / (var(--phone-w) + 64), 100vh / (var(--phone-h) + 64))));
+                transform-origin: top center;
+            }
+        }
+    </style>
+    <script>
+        const DEFAULT_FILE = 'tutorial.html';
+
+        function getRequestedFile() {
+            const params = new URLSearchParams(window.location.search);
+            const level = params.get('level');
+            if (level && /^[a-z0-9_-]+$/i.test(level)) {
+                return `${level}.html`;
+            }
+            return DEFAULT_FILE;
+        }
+
+        function isMobileUA() {
+            return /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(
+                navigator.userAgent
+            );
+        }
+
+        async function resolveTargetFile() {
+            const requested = getRequestedFile();
+
+            try {
+                const res = await fetch(requested, { method: 'HEAD' });
+                if (res.ok) {
+                    return requested;
+                }
+            } catch (e) {
+                // ignore network errors
+            }
+            return DEFAULT_FILE;
+        }
+
+        document.addEventListener('DOMContentLoaded', async () => {
+            const target = await resolveTargetFile();
+
+            if (isMobileUA()) {
+                window.location.replace(target);
+                return;
+            }
+
+            document.getElementById('mobile-iframe').src = target;
+        });
+    </script>
+</head>
+
+<body>
+    <div class="stage">
+        <div class="phone-frame">
+            <iframe id="mobile-iframe" title="Mobile Preview" loading="lazy"></iframe>
+        </div>
+    </div>
+</body>
+
+</html>
