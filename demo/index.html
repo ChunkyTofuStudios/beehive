@@ -1,16 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-us">
 
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="/beehive/assets/appicon.png">
+    <meta name="description" content="Find the right word and build the hive!">
     <title>Beehive Demo</title>
     <style>
         :root {
-            --phone-w: 390px;
-            /* iPhone 14 logical width */
-            --phone-h: 844px;
-            /* iPhone 14 logical height */
+            /* iPhone 16 logical resolution */
+            --phone-w: 393px;
+            --phone-h: 852px;
         }
 
         html,
@@ -26,8 +27,8 @@
         }
 
         .stage {
-            transform: translateY(-10vh);
             /* shift ~10% upward */
+            transform: translateY(-10vh);
         }
 
         .phone-frame {
