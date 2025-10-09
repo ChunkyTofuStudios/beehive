@@ -5,7 +5,7 @@ page_title: Beehive # Automatically populates with app name if not set and if iO
 ios_app_id: 6737005539 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country: us # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link: https://apps.apple.com/us/app/beehive-word-game/id6737005539 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link: https://testflight.apple.com/join/5WeUgnQ1 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link: https://play.google.com/store/apps/details?id=com.chunkytofustudios.beehive
 
 app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -20,8 +20,8 @@ your_name: Chunky Tofu Studios
 your_link: https://chunkytofustudios.com
 your_city: Princeton & Dublin
 email_address: support@chunkytofustudios.com
-facebook_username: chunkytofustudios
-instagram_username: chunkytofustudios
+facebook_username: beehive.word.game
+instagram_username: beehivegame
 twitter_username: Chunky_Tofu
 github_username: ChunkyTofuStudios
 youtube_username:
@@ -30,7 +30,7 @@ mastodon_link:
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: A Helpful Bee
-    description: When your stuck, the bee will give you hints and reveal letters. It's like playing with a friend!
+    description: When you're stuck, the bee will give you hints and reveal letters. It's like playing with a friend!
     fontawesome_icon_name: medkit
 
   - title: Compete with Friends
