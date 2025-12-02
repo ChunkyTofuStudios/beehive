@@ -15,11 +15,14 @@ app_description: Find the right word and build the hive!
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
+# Stats
+google_analytics: G-REYS4TKJBK
+
 # Information About Yourself
 your_name: Chunky Tofu Studios
 your_link: https://chunkytofustudios.com
 your_city: Princeton & Dublin
-email_address: support@chunkytofustudios.com
+email_address: beehive@chunkytofustudios.com
 facebook_username: beehive.word.game
 instagram_username: beehivegame
 twitter_username: Chunky_Tofu
